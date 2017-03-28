@@ -3,6 +3,9 @@ WHEN IT IS DONE
 STARTS READING FROM THE ACCELEROMETER
 */
 
+// This code is modified version of the Adafruit VS1053 Codec Breakout
+// This code is modified version of the Adafruit LSM303DLHC
+
 
 ////////////////ACCEL
 #include <Wire.h>
