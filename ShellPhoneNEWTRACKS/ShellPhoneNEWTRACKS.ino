@@ -83,7 +83,7 @@ void loop() {
   
 if (musicPlayer.stopped()) {
 Serial.println("music stopped");
-if(heading > 100){
+if(heading > 230){
  MUSIC = int(random(1,15));
 
 
